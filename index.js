@@ -17,7 +17,7 @@ const runnersIds = [2, 3, 4]
 //     const response = await axios.post(`${apiUrl}/projects`, {
 //       name: projectName,
 //       path: projectName.toLowerCase(),
-//       namespace_id: groupName // 这里需要组的 ID，如果你不知道，需要先查询组 ID
+//       namespace_id: groupName
 //     }, {
 //       headers: {
 //         'PRIVATE-TOKEN': accessToken
